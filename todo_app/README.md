@@ -1,5 +1,7 @@
 # todo_app
 
+Live demo: https://priceless-leavitt-3c3f94.netlify.com/ 
+
 ## Project setup
 ```
 npm install
