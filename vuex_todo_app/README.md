@@ -1,5 +1,7 @@
 # vuex_todo_app
 
+Live demo: https://determined-shockley-8a3e30.netlify.com/
+
 ## Project setup
 ```
 npm install
