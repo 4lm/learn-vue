@@ -1,8 +1,8 @@
 new Vue({
     el: "#exercise",
     data: {
-        name: "Alexis",
-        age: 38,
+        name: "Sixela",
+        age: 123,
         link: "https://placeimg.com/100/100"
     },
     methods: {
